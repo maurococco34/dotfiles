@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maurococco34@gmail.com
+	name = Mauro Cocco
